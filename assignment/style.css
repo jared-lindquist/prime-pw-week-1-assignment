@@ -1,6 +1,35 @@
 /* Give your page a fun background color */
+body{
+    background-color: #b3e6b3;
+    color: #000080;
+    font-family: monospace;
+  }
 
+  img{
+    border-radius: 25%;
+    border: 5px solid #555;
+    margin: 20px;
+  }
 /* Make the header and footer a different color from the background */
+header {
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid #dddddd;
+    border-bottom: 0.5px solid #dddddd;
+    background-color: #d9d9d9
+  }
+
+footer {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: italic;
+    border-top: 1px solid #dddddd;
+    border-bottom: 0.5px solid #dddddd;
+    background-color: #00cc66
+  }
+  div p {
+    color: yellow;
+  }
 
 /* Align the h1 containing your name in the center of the header*/
 

@@ -9,6 +9,8 @@ body{
     border-radius: 25%;
     border: 5px solid #555;
     margin: 20px;
+    width: 100px;
+    height: 100px;
   }
 /* Make the header and footer a different color from the background */
 header {
